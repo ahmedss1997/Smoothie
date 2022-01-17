@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Ninja Brew",
+    "slug": "ninja-brew",
+    "ingredients": ["bananas", "coffe", "milk"],
+    "id": "1"
+  },
+  {
+    "title": "Morning Mode",
+    "slug": "morning-mode",
+    "ingredients": ["mango", "lime", "juice"],
+    "id": "2"
+  }
+]
