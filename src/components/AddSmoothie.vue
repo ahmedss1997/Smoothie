@@ -23,7 +23,6 @@
   </div>
 </template>
 
-
 <script>
 
 import DataBase from "../firebase/init.js";

@@ -1,7 +1,5 @@
 <template>
   <div id="ninja">
-    <!-- <router-link to="/">Home</router-link> -->
-    <!-- <router-link to="/about">About</router-link> -->
     <NavbarNinja />
   </div>
   <router-view />
